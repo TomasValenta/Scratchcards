@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Scratchcards</string>
+    <string name="scratchcard_value">Scratchcard %d€</string>
+    <string name="scratchcards_channel">Scratchcards channel</string>
+    <string name="scratchcard_activation_notifications_text">Scratchcard activation notifications and etc.</string>
+    <string name="scratchcard_rejected_try_another_one">The scratchcard was rejected, please try another one.</string>
+    <string name="get_notified">Get notified</string>
+    <string name="stay_on_top_of_your_scratchcards_activation_statuses">Stay on top of your scratchcards activation statuses.</string>
+    <string name="if_you_want_receive_activation_status_notifications_text">If you want to receive activation status notifications, please grant the permission.</string>
+    <string name="im_in">I\'m in</string>
+    <string name="skip">Skip</string>
+    <string name="scratch">Scratch</string>
+    <string name="activate">Activate"</string>
+</resources>
